@@ -13,4 +13,4 @@ __pycache__/
 .idea/
 
 # Data (optional)
-data/*.csv
+# data/*.csv
